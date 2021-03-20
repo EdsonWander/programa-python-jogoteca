@@ -8,8 +8,9 @@ app.secret_key = 'edson'
 jogo1 = Jogo("Super Mario", "Plataforma", "Super Nintendo")
 jogo2 = Jogo("Pokémon Gold", "RPG", "Game Boy")
 jogo3 = Jogo("Mortal Kombat", "Luta", "Super Nintendo")
+jogo4 = Jogo("Doom", "Tiro", "Super Nintendo")
 
-lista = [jogo1, jogo2, jogo3]
+lista = [jogo1, jogo2, jogo3, jogo4]
 
 usuario1 = Usuario('edson', 'Edson Wander', '123456')
 usuario2 = Usuario('jose', 'Jose Jacinto', '654321')
